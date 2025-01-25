@@ -1,6 +1,6 @@
 var swiper = new Swiper(".mySwiper", {
     slidesPerView: 4,
-    spaceBetween: 30,
+    spaceBetween: 25,
     centeredSlides: true,
     loop:true,
     pagination: {
@@ -23,3 +23,4 @@ emailButton.addEventListener('click', () => {
     inputField.placeholder = 'Введите email';
     inputField.type = 'email';
 });
+
