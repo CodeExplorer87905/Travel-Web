@@ -6,6 +6,7 @@
   justify-content: center;
   margin: 0;
   outline: 1px solid red;
+  overflow-x: hidden;
 }
 
 /*HEADER*/
